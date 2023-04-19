@@ -26,6 +26,11 @@ main {
     font-size: 20px;
 }
 
+.button:hover {
+    opacity: .8;
+    cursor:pointer;
+}
+
 #red {
     background-color: red;
 }
